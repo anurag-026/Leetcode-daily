@@ -7,7 +7,8 @@ string mergeAlternately(string w1, string w2) {
         int i=0,j=0; 
         string ans = "";
         while( i<n1 && j<n2 ){
-            ans += (w1[i++] + w2[j++] );
+            ans += w1[i++] ;
+            ans+=  + w2[j++];
         }
         while(i<n1){
             ans += w1[i++];
