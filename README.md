@@ -19,3 +19,15 @@ Although this is primarily a personal project, I welcome suggestions, discussion
 
 ## Disclaimer
 These solutions are my own work, developed as part of my learning journey. While I strive for optimal solutions, there may be room for improvement. Use these as a reference, but I encourage you to attempt solving the problems on your own first.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
+<!---LeetCode Topics End-->
