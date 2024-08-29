@@ -25,6 +25,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
@@ -45,4 +46,8 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
