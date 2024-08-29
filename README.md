@@ -37,5 +37,10 @@ These solutions are my own work, developed as part of my learning journey. While
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
