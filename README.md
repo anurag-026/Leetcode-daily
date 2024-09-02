@@ -50,6 +50,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -100,4 +101,12 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
