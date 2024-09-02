@@ -30,6 +30,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0334-increasing-triplet-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/anurag-026/Leetcode-75/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
@@ -100,11 +101,13 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
