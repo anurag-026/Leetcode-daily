@@ -34,6 +34,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
@@ -68,6 +69,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0345-reverse-vowels-of-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +82,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Design
@@ -95,6 +98,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
