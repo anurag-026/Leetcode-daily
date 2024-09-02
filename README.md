@@ -51,6 +51,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0345-reverse-vowels-of-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -82,5 +84,10 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
