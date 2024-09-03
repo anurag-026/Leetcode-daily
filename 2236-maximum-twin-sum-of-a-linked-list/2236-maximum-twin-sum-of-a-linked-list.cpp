@@ -25,6 +25,9 @@ public:
 
     int pairSum(ListNode* head) {
         
+         ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr); 
        
         if(head == NULL){
             return NULL;
