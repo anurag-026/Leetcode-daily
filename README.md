@@ -146,4 +146,5 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
