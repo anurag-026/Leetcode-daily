@@ -72,6 +72,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0392-is-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +148,5 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
