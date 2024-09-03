@@ -60,6 +60,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/anurag-026/Leetcode-75/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/anurag-026/Leetcode-75/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
