@@ -128,6 +128,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
@@ -141,4 +142,8 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
