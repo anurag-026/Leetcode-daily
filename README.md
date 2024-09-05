@@ -93,6 +93,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
@@ -128,6 +129,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -158,4 +160,9 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
