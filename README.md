@@ -33,6 +33,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/anurag-026/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -126,6 +127,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -152,4 +154,8 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0328-odd-even-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
