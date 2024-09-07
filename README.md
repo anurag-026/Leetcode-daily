@@ -197,4 +197,20 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/anurag-026/Leetcode-75/tree/master/0969-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
