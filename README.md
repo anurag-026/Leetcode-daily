@@ -102,6 +102,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/anurag-026/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
@@ -175,6 +176,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/anurag-026/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 ## Memoization
 |  |
 | ------- |
@@ -194,4 +196,5 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/anurag-026/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
