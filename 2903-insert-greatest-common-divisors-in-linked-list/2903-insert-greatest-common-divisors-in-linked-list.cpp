@@ -24,22 +24,11 @@ public:
         int x=head->val, y;
         for(ListNode* prev=head, *ptr=head->next; ptr;ptr=ptr->next){
             int y=ptr->val;
-        //    cout<<gcd(x, y)<<"-->";
             ListNode* newNode=new ListNode(gcd(x, y), ptr);
             prev->next=newNode;
             prev=ptr;
-        //    if(ptr) cout<<ptr->val<<endl;
             x=y;
         }
         return head;
     }
 };
-
-
-// auto init = []() {
-//     ios::sync_with_stdio(0);
-//     cin.tie(0);
-//     cout.tie(0);
-//     return 'c';
-// }();
-// };
