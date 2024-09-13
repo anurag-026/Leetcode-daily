@@ -25,6 +25,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anurag-026/Leetcode-75/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anurag-026/Leetcode-75/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
