@@ -17,9 +17,9 @@ public:
     }
 };
 
-static const int KDS = []() {
-    std::ios::sync_with_stdio(false);
-    std::cin.tie(nullptr);
-    std::cout.tie(nullptr);
-    return 0;
-}();
+// static const int KDS = []() {
+//     std::ios::sync_with_stdio(false);
+//     std::cin.tie(nullptr);
+//     std::cout.tie(nullptr);
+//     return 0;
+// }();
