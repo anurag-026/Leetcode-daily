@@ -1,10 +1,15 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int maxi = *max_element(nums.begin(), nums.end());
-        int max =0;
+        //int maxi = *max_element(nums.begin(), nums.end());
+        int max =0,maxi=0;
         int cnt=0;
         for(int i=0; i<nums.size(); i++){
+            if(maxi<nums[i]){
+                maxi =nums[i];
+                cnt=0; max =0;
+            }
+
             if( nums[i] == maxi ){
                 cnt++;
                 max = max>cnt? max:cnt;
@@ -16,10 +21,3 @@ public:
         return max;
     }
 };
-
-// static const int KDS = []() {
-//     std::ios::sync_with_stdio(false);
-//     std::cin.tie(nullptr);
-//     std::cout.tie(nullptr);
-//     return 0;
-// }();
