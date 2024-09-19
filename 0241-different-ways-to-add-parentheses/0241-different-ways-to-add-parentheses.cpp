@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> diffWaysToCompute(string exp) { 
         unordered_map<string, vector<int> > memo;
-        
         return helper(exp, memo);
     }
     vector<int> helper(string exp, unordered_map<string, vector<int> > & memo) {
@@ -10,11 +9,8 @@ public:
         if(memo.find(exp) != memo.end()) {
             return memo[exp];
         }
-        
         vector<int> ans;
-        
         const int size = exp.size();
-        
         for(int i = 0; i < size; ++i) {
             if('+' == exp[i] || '-' == exp[i] || '*' == exp[i]) {
                 vector<int> ansl = helper(exp.substr(0, i), memo );   
