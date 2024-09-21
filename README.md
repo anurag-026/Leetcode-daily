@@ -236,6 +236,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/anurag-026/Leetcode-75/tree/master/0386-lexicographical-numbers) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -281,4 +282,8 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/anurag-026/Leetcode-75/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
