@@ -37,6 +37,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0724-find-pivot-index](https://github.com/anurag-026/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/anurag-026/Leetcode-daily/tree/master/0859-design-circular-deque) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -123,6 +124,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Design
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/anurag-026/Leetcode-daily/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/anurag-026/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
@@ -194,6 +196,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/anurag-026/Leetcode-daily/tree/master/0859-design-circular-deque) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -228,6 +231,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0859-design-circular-deque](https://github.com/anurag-026/Leetcode-daily/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/anurag-026/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 ## Tree
 |  |
