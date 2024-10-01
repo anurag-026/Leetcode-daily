@@ -72,6 +72,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anurag-026/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/anurag-026/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0214-shortest-palindrome) |
@@ -296,6 +297,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anurag-026/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/anurag-026/Leetcode-75/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anurag-026/Leetcode-daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
