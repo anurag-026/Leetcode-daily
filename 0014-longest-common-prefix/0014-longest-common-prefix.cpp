@@ -24,7 +24,7 @@ public:
 
         string psum="";
         
-        for(int i=0; i<arr[0].size() ; i++){
+        for(int i=0; i<arr[0].length() ; i++){
             for( auto s :arr){
                 if(s[i] != arr[0][i]){
                     return psum;
