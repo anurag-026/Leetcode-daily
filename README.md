@@ -28,6 +28,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0001-two-sum](https://github.com/anurag-026/Leetcode-75/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/anurag-026/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
@@ -94,6 +96,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0392-is-subsequence) |
