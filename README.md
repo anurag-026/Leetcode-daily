@@ -51,6 +51,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anurag-026/Leetcode-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/anurag-026/Leetcode-75/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/anurag-026/Leetcode-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
@@ -105,6 +106,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/anurag-026/Leetcode-75/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/anurag-026/Leetcode-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +127,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/anurag-026/Leetcode-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 ## Design
 |  |
@@ -148,6 +151,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/anurag-026/Leetcode-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
