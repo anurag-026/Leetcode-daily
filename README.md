@@ -77,6 +77,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anurag-026/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anurag-026/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
@@ -101,6 +102,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
@@ -202,6 +204,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/anurag-026/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
