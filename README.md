@@ -27,6 +27,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0001-two-sum](https://github.com/anurag-026/Leetcode-75/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/anurag-026/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0001-two-sum](https://github.com/anurag-026/Leetcode-75/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anurag-026/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/anurag-026/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
@@ -174,6 +176,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anurag-026/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
