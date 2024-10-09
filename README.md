@@ -62,6 +62,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0334-increasing-triplet-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
 ## Math
@@ -87,6 +88,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -185,6 +187,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
