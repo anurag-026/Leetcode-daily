@@ -45,6 +45,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/anurag-026/Leetcode-daily/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/anurag-026/Leetcode-daily/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -205,6 +206,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/anurag-026/Leetcode-daily/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -251,6 +253,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/anurag-026/Leetcode-daily/tree/master/1002-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
