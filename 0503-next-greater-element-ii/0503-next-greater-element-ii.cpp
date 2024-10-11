@@ -26,9 +26,7 @@ public:
             }
             st.push(nums2[i]);
         }
-
         ans.erase(ans.begin()+n/2, ans.end() );
-
         return ans;
     }
 };
