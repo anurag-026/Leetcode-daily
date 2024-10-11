@@ -39,6 +39,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/anurag-026/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anurag-026/Leetcode-75/tree/master/0724-find-pivot-index) |
@@ -147,6 +148,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anurag-026/Leetcode-daily/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
+| [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -208,6 +210,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
@@ -257,6 +260,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anurag-026/Leetcode-75/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anurag-026/Leetcode-75/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/anurag-026/Leetcode-daily/tree/master/1002-maximum-width-ramp) |
