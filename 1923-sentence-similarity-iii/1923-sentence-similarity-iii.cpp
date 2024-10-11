@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool areSentencesSimilar(string sentence1, string sentence2) {
-        // Helper function to split the sentence into words
+        
         auto splitWords = [](const string& sentence) {
             vector<string> words;
             string word = "";
