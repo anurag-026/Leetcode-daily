@@ -55,6 +55,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/anurag-026/Leetcode-daily/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anurag-026/Leetcode-daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anurag-026/Leetcode-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -103,6 +104,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/anurag-026/Leetcode-daily/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/anurag-026/Leetcode-75/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
@@ -122,6 +124,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/anurag-026/Leetcode-daily/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
