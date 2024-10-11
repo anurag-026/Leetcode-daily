@@ -17,18 +17,19 @@ public:
                  mpp[nums2[i]]  = st.top();
                  
             }
-            else if(   st.top() <nums2[i]){
+            // else if(st.top() <nums2[i]){
                
-                if(st.empty()){
-                    mpp[nums2[i]]  =-1;
-                }
-                if(!st.empty() &&  st.top() > nums2[i] ){
-                     mpp[nums2[i]] = st.top();
-                }
-            }
+            //     if(st.empty()){
+            //         mpp[nums2[i]]  =-1;
+            //     }
+            //     if(!st.empty() &&  st.top() > nums2[i] ){
+            //          mpp[nums2[i]] = st.top();
+            //     }
+            // }
             st.push(nums2[i]);
         }
-        vector<int> ans ;
+        
+        vector<int> ans;
         
         for(int x:nums1){
             ans.push_back(mpp[x]);
