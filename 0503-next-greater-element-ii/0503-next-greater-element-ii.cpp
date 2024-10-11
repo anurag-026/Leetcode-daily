@@ -39,7 +39,6 @@ public:
             while(!st.empty() && st.top() <= curr ){
                 st.pop();
             }
-             
             if(!st.empty()) 
                 ans[i%n] = st.top();
             
