@@ -85,6 +85,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
