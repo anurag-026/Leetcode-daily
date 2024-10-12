@@ -92,6 +92,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0003-longest-substring-without-repeating-characters](https://github.com/anurag-026/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anurag-026/Leetcode-daily/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
@@ -215,6 +216,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
@@ -239,6 +241,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
