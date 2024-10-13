@@ -8,12 +8,12 @@ public:
     //     return -1;
     // }
 
-    int strStr(string haystack, string needle) {
-        // int index=-1;
-        for(int i=0;i<haystack.size();i++){  
-            for(int j=0;j<needle.size();j++){
-                if(haystack[i+j]!=needle[j])break;
-                if(j==needle.size()-1)return i;
+    int strStr(string a, string b) {
+         
+        for(int i=0;i<a.size();i++){  
+            for(int j=0;j<b.size();j++){
+                if(a[i+j]!=b[j])break;
+                if(j==b.size()-1)return i;
             }
         }
            
