@@ -10,7 +10,6 @@ public:
                 break;
             }
         }
-        if(n==1) return;
     }
     int jump(vector<int>& nums) {
         int n= nums.size();
