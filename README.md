@@ -97,6 +97,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0003-longest-substring-without-repeating-characters](https://github.com/anurag-026/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anurag-026/Leetcode-daily/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
@@ -250,6 +251,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
@@ -387,6 +389,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
