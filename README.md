@@ -45,6 +45,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anurag-026/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anurag-026/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
@@ -77,6 +78,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -166,6 +168,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -188,6 +191,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anurag-026/Leetcode-daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -198,6 +202,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -308,6 +313,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anurag-026/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anurag-026/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
