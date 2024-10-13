@@ -98,6 +98,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anurag-026/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
@@ -127,6 +128,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
@@ -373,6 +375,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
