@@ -34,6 +34,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0041-first-missing-positive](https://github.com/anurag-026/Leetcode-daily/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
@@ -408,5 +409,6 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0022-generate-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
