@@ -91,6 +91,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anurag-026/Leetcode-daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
+| [3195-separate-black-and-white-balls](https://github.com/anurag-026/Leetcode-daily/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anurag-026/Leetcode-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/anurag-026/Leetcode-daily/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/anurag-026/Leetcode-75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anurag-026/Leetcode-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/anurag-026/Leetcode-daily/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
