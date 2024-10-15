@@ -114,6 +114,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/anurag-026/Leetcode-daily/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +149,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
