@@ -98,6 +98,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
@@ -113,6 +114,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0022-generate-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/anurag-026/Leetcode-daily/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/anurag-026/Leetcode-daily/tree/master/0093-restore-ip-addresses) |
@@ -248,6 +250,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/anurag-026/Leetcode-75/tree/master/2076-sum-of-digits-of-string-after-convert) |
