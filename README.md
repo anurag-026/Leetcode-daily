@@ -114,6 +114,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/anurag-026/Leetcode-daily/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/anurag-026/Leetcode-daily/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
@@ -433,5 +434,6 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
+| [0093-restore-ip-addresses](https://github.com/anurag-026/Leetcode-daily/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
