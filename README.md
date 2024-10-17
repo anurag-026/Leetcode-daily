@@ -88,6 +88,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/anurag-026/Leetcode-daily/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -103,6 +104,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0171-excel-sheet-column-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
+| [0670-maximum-swap](https://github.com/anurag-026/Leetcode-daily/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/anurag-026/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
