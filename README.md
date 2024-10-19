@@ -142,6 +142,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/anurag-026/Leetcode-daily/tree/master/1923-sentence-similarity-iii) |
@@ -260,6 +261,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/anurag-026/Leetcode-75/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
@@ -290,6 +292,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
