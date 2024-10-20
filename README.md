@@ -69,6 +69,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1435-xor-queries-of-a-subarray](https://github.com/anurag-026/Leetcode-75/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anurag-026/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1694-make-sum-divisible-by-p](https://github.com/anurag-026/Leetcode-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
@@ -190,6 +191,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0724-find-pivot-index](https://github.com/anurag-026/Leetcode-75/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anurag-026/Leetcode-75/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/anurag-026/Leetcode-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
@@ -210,6 +212,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/anurag-026/Leetcode-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
