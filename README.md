@@ -140,6 +140,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/anurag-026/Leetcode-daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -281,6 +282,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0943-sum-of-subarray-minimums](https://github.com/anurag-026/Leetcode-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/anurag-026/Leetcode-daily/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/anurag-026/Leetcode-daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -292,6 +294,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/anurag-026/Leetcode-daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
