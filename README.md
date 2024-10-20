@@ -37,6 +37,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anurag-026/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
@@ -237,6 +238,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anurag-026/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
