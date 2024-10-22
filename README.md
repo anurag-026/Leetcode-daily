@@ -37,6 +37,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anurag-026/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/0064-minimum-path-sum) |
@@ -275,6 +276,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0036-valid-sudoku](https://github.com/anurag-026/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anurag-026/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
@@ -284,6 +286,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/anurag-026/Leetcode-daily/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/anurag-026/Leetcode-75/tree/master/0735-asteroid-collision) |
