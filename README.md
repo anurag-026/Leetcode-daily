@@ -45,6 +45,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
@@ -340,6 +341,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -403,6 +405,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -424,6 +427,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -444,6 +448,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 ## Brainteaser
 |  |
