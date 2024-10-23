@@ -28,6 +28,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0001-two-sum](https://github.com/anurag-026/Leetcode-75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/anurag-026/Leetcode-daily/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/anurag-026/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
@@ -174,6 +175,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anurag-026/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anurag-026/Leetcode-75/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/anurag-026/Leetcode-daily/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
@@ -260,6 +262,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anurag-026/Leetcode-daily/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anurag-026/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0088-merge-sorted-array) |
