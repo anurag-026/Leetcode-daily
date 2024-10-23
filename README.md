@@ -115,6 +115,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/anurag-026/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
@@ -406,6 +407,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/anurag-026/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 ## Queue
