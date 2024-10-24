@@ -439,6 +439,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/anurag-026/Leetcode-daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -448,6 +449,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0104-maximum-depth-of-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/anurag-026/Leetcode-75/tree/master/0386-lexicographical-numbers) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/anurag-026/Leetcode-daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -464,6 +466,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anurag-026/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/anurag-026/Leetcode-daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
