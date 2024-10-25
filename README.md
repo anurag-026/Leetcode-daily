@@ -77,6 +77,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1002-maximum-width-ramp](https://github.com/anurag-026/Leetcode-daily/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anurag-026/Leetcode-75/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -163,6 +164,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/anurag-026/Leetcode-daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anurag-026/Leetcode-daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -450,6 +452,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0386-lexicographical-numbers](https://github.com/anurag-026/Leetcode-75/tree/master/0386-lexicographical-numbers) |
 | [0904-leaf-similar-trees](https://github.com/anurag-026/Leetcode-75/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anurag-026/Leetcode-daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -515,6 +518,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/anurag-026/Leetcode-75/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anurag-026/Leetcode-daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
 |  |
