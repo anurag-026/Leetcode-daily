@@ -100,6 +100,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anurag-026/Leetcode-daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -312,6 +313,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anurag-026/Leetcode-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -375,6 +377,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anurag-026/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
