@@ -170,6 +170,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/anurag-026/Leetcode-daily/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
