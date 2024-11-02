@@ -15,5 +15,4 @@ public:
         return 1;
     }
 };
-
  
