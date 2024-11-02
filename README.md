@@ -84,6 +84,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1435-xor-queries-of-a-subarray](https://github.com/anurag-026/Leetcode-75/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anurag-026/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anurag-026/Leetcode-daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/anurag-026/Leetcode-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anurag-026/Leetcode-daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -250,6 +251,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1256-rank-transform-of-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anurag-026/Leetcode-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anurag-026/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anurag-026/Leetcode-daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/anurag-026/Leetcode-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anurag-026/Leetcode-daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -308,6 +310,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anurag-026/Leetcode-daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
