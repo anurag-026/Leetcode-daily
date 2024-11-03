@@ -169,6 +169,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/anurag-026/Leetcode-75/tree/master/0649-dota2-senate) |
+| [0812-rotate-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/anurag-026/Leetcode-daily/tree/master/1197-parsing-a-boolean-expression) |
@@ -536,6 +537,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
