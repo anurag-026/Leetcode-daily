@@ -94,6 +94,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1940-maximum-xor-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anurag-026/Leetcode-daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anurag-026/Leetcode-daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anurag-026/Leetcode-daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anurag-026/Leetcode-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -264,6 +265,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anurag-026/Leetcode-daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anurag-026/Leetcode-daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anurag-026/Leetcode-75/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anurag-026/Leetcode-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -320,6 +322,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anurag-026/Leetcode-daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anurag-026/Leetcode-daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -524,6 +527,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1940-maximum-xor-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anurag-026/Leetcode-daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anurag-026/Leetcode-75/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anurag-026/Leetcode-daily/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anurag-026/Leetcode-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anurag-026/Leetcode-daily/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search Tree
