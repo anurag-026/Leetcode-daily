@@ -105,6 +105,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2586-longest-square-streak-in-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anurag-026/Leetcode-daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
+| [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anurag-026/Leetcode-daily/tree/master/3291-find-if-array-can-be-sorted) |
@@ -129,6 +130,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anurag-026/Leetcode-daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
+| [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/anurag-026/Leetcode-daily/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
@@ -142,6 +144,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0670-maximum-swap](https://github.com/anurag-026/Leetcode-daily/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/anurag-026/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
+| [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -467,6 +470,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anurag-026/Leetcode-daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
 | ------- |
@@ -519,6 +523,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
