@@ -10,6 +10,9 @@ public:
         return stores<=n;
     }
     int minimizedMaximum(int n, vector<int>& quantities) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int s=1,e=100000,ans=-1;
         while(s<=e){
             int mid=s+(e-s)/2;
