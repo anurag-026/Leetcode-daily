@@ -113,6 +113,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anurag-026/Leetcode-daily/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -466,6 +467,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anurag-026/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
