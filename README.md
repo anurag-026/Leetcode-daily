@@ -96,6 +96,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1940-maximum-xor-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/anurag-026/Leetcode-daily/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anurag-026/Leetcode-daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anurag-026/Leetcode-daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anurag-026/Leetcode-daily/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -134,6 +135,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anurag-026/Leetcode-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anurag-026/Leetcode-daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anurag-026/Leetcode-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anurag-026/Leetcode-daily/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -354,6 +356,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anurag-026/Leetcode-daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anurag-026/Leetcode-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/anurag-026/Leetcode-daily/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
