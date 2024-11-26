@@ -613,4 +613,8 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anurag-026/Leetcode-daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
