@@ -524,6 +524,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0988-flip-equivalent-binary-trees](https://github.com/anurag-026/Leetcode-daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anurag-026/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anurag-026/Leetcode-daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -618,6 +619,11 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/2201-valid-arrangement-of-pairs) |
 | [3189-find-champion-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
