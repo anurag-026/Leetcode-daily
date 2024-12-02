@@ -194,6 +194,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1302-delete-characters-to-make-fancy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anurag-026/Leetcode-daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anurag-026/Leetcode-daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anurag-026/Leetcode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anurag-026/Leetcode-daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anurag-026/Leetcode-daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -230,6 +231,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0443-string-compression](https://github.com/anurag-026/Leetcode-75/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/anurag-026/Leetcode-daily/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0567-permutation-in-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anurag-026/Leetcode-daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/anurag-026/Leetcode-daily/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/anurag-026/Leetcode-daily/tree/master/1972-rotating-the-box) |
@@ -586,6 +588,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/anurag-026/Leetcode-daily/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/anurag-026/Leetcode-daily/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anurag-026/Leetcode-daily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
