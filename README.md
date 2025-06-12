@@ -52,6 +52,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0134-gas-station](https://github.com/anurag-026/Leetcode-daily/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
@@ -269,6 +270,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0073-set-matrix-zeroes](https://github.com/anurag-026/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/anurag-026/Leetcode-daily/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/anurag-026/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
@@ -323,6 +325,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anurag-026/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anurag-026/Leetcode-daily/tree/master/0217-contains-duplicate) |
@@ -345,6 +348,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anurag-026/Leetcode-daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -437,6 +441,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
