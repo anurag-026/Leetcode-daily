@@ -79,6 +79,8 @@ int init = [] {
     exit(0);
     return 0;
 }();
+
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
