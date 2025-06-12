@@ -38,6 +38,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anurag-026/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anurag-026/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
@@ -420,6 +421,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0032-longest-valid-parentheses](https://github.com/anurag-026/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anurag-026/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anurag-026/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/anurag-026/Leetcode-daily/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
@@ -440,6 +442,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anurag-026/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
