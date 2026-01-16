@@ -51,6 +51,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0088-merge-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anurag-026/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/anurag-026/Leetcode-daily/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
@@ -428,6 +429,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0064-minimum-path-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/anurag-026/Leetcode-daily/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anurag-026/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
