@@ -75,6 +75,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0455-assign-cookies](https://github.com/anurag-026/Leetcode-daily/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/anurag-026/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anurag-026/Leetcode-daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anurag-026/Leetcode-75/tree/master/0643-maximum-average-subarray-i) |
@@ -532,6 +533,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anurag-026/Leetcode-daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/2179-most-beautiful-item-for-each-query) |
