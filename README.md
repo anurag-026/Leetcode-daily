@@ -126,6 +126,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/anurag-026/Leetcode-daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anurag-026/Leetcode-daily/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -168,6 +169,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1236-n-th-tribonacci-number](https://github.com/anurag-026/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/anurag-026/Leetcode-daily/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/anurag-026/Leetcode-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -312,6 +314,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2586-longest-square-streak-in-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/anurag-026/Leetcode-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -385,6 +388,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2089-maximum-matrix-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anurag-026/Leetcode-daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/anurag-026/Leetcode-daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
