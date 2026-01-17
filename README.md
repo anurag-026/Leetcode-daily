@@ -64,6 +64,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anurag-026/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
@@ -290,6 +291,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0187-repeated-dna-sequences](https://github.com/anurag-026/Leetcode-daily/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/anurag-026/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
@@ -347,6 +349,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0179-largest-number](https://github.com/anurag-026/Leetcode-75/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anurag-026/Leetcode-daily/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/anurag-026/Leetcode-daily/tree/master/0455-assign-cookies) |
@@ -367,6 +370,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0229-majority-element-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anurag-026/Leetcode-daily/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anurag-026/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
