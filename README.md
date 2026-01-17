@@ -66,6 +66,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0219-contains-duplicate-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anurag-026/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0414-third-maximum-number) |
@@ -238,6 +239,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0151-reverse-words-in-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anurag-026/Leetcode-75/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anurag-026/Leetcode-75/tree/master/0392-is-subsequence) |
@@ -518,6 +520,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0004-median-of-two-sorted-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/anurag-026/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anurag-026/Leetcode-daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -586,6 +589,7 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anurag-026/Leetcode-daily/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anurag-026/Leetcode-75/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/1940-maximum-xor-for-each-query) |
