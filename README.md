@@ -38,6 +38,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0045-jump-game-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anurag-026/Leetcode-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/anurag-026/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anurag-026/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0054-spiral-matrix) |
@@ -156,6 +157,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0009-palindrome-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/anurag-026/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anurag-026/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
@@ -369,6 +371,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | ------- |
 | [0036-valid-sudoku](https://github.com/anurag-026/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anurag-026/Leetcode-daily/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/anurag-026/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/0064-minimum-path-sum) |
