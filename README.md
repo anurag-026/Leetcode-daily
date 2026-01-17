@@ -161,6 +161,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0009-palindrome-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/anurag-026/Leetcode-daily/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anurag-026/Leetcode-daily/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anurag-026/Leetcode-daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anurag-026/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0189-rotate-array) |
@@ -432,6 +433,7 @@ These solutions are my own work, developed as part of my learning journey. While
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anurag-026/Leetcode-daily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anurag-026/Leetcode-75/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/anurag-026/Leetcode-75/tree/master/0394-decode-string) |
