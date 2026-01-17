@@ -53,6 +53,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anurag-026/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anurag-026/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anurag-026/Leetcode-daily/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
@@ -276,6 +277,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0041-first-missing-positive](https://github.com/anurag-026/Leetcode-daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anurag-026/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anurag-026/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anurag-026/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/anurag-026/Leetcode-daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
@@ -651,4 +653,8 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/2201-valid-arrangement-of-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anurag-026/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
