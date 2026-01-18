@@ -102,6 +102,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1786-count-the-number-of-consistent-strings](https://github.com/anurag-026/Leetcode-75/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/anurag-026/Leetcode-daily/tree/master/1895-largest-magic-square) |
 | [1923-sentence-similarity-iii](https://github.com/anurag-026/Leetcode-daily/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/anurag-026/Leetcode-daily/tree/master/1972-rotating-the-box) |
@@ -274,6 +275,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [1435-xor-queries-of-a-subarray](https://github.com/anurag-026/Leetcode-75/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/anurag-026/Leetcode-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/anurag-026/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/anurag-026/Leetcode-daily/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/anurag-026/Leetcode-daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anurag-026/Leetcode-daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
@@ -390,6 +392,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anurag-026/Leetcode-daily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anurag-026/Leetcode-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/anurag-026/Leetcode-daily/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/anurag-026/Leetcode-daily/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/anurag-026/Leetcode-daily/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/anurag-026/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
