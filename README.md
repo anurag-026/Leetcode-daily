@@ -73,6 +73,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0414-third-maximum-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/anurag-026/Leetcode-daily/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anurag-026/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
@@ -483,6 +484,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anurag-026/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/anurag-026/Leetcode-daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anurag-026/Leetcode-75/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -542,6 +544,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [0074-search-a-2d-matrix](https://github.com/anurag-026/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/anurag-026/Leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anurag-026/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anurag-026/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anurag-026/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anurag-026/Leetcode-daily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -691,4 +694,20 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anurag-026/Leetcode-daily/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
