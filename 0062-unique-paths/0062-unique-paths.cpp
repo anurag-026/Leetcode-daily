@@ -23,7 +23,23 @@ public:
         return z;
     }
 
-    int uniquePaths(int m, int n) {
+     int uniquePaths(int m, int n) {
+        vector<vector<long long>> t(m+1,vector<long long>(n+1));
+        for(int i=0;i<n;i++){
+            t[0][i] = 1;
+        }
+        for(int i=0;i<m;i++){
+            t[i][0] = 1;
+        }
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++){
+                t[i][j] = t[i][j-1] + t[i-1][j];
+            }
+        }
+        return t[m-1][n-1];
+    }
+
+    int uniquePaths2(int m, int n) {
         int N = m+n-2;
         int r =n-1;
         long long res=1;
