@@ -22,7 +22,7 @@ public:
         return ans;
     }
 
-    vector<int> minBitwiseArray(vector<int>& nums) {
+    vector<int> minBitwiseArray1(vector<int>& nums) {
         vector<int> ans;
 
         for (int num : nums) {
@@ -40,6 +40,28 @@ public:
                     ans.push_back(n);
                     break;
                 }
+            }
+        }
+
+        return ans;
+    }
+
+    vector<int> minBitwiseArray(vector<int>& nums) {
+        vector<int> ans;
+
+        for (int num : nums) {
+            if (num%2 == 0) {
+                ans.push_back(-1);
+                continue;
+            }
+
+            for (int i = 0; i < 32; i++) {
+                if ((num & (1 << i)) > 0) {
+                    continue;
+                }
+                int x = num ^ (1 << (i - 1));
+                ans.push_back(x);
+                break;
             }
         }
 
