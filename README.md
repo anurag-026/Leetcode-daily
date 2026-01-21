@@ -134,6 +134,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2965-find-missing-and-repeated-values](https://github.com/anurag-026/Leetcode-daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anurag-026/Leetcode-daily/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -624,6 +625,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anurag-026/Leetcode-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anurag-026/Leetcode-daily/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search Tree
 |  |
