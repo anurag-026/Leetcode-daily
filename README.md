@@ -136,6 +136,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
@@ -327,6 +328,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2677-cousins-in-binary-tree-ii](https://github.com/anurag-026/Leetcode-daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/anurag-026/Leetcode-daily/tree/master/2755-extra-characters-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/anurag-026/Leetcode-daily/tree/master/2965-find-missing-and-repeated-values) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -347,6 +349,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2553-total-cost-to-hire-k-workers](https://github.com/anurag-026/Leetcode-75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anurag-026/Leetcode-daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/anurag-026/Leetcode-75/tree/master/2636-maximum-subsequence-score) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -421,6 +424,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2470-removing-stars-from-a-string](https://github.com/anurag-026/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/anurag-026/Leetcode-75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anurag-026/Leetcode-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -499,6 +503,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anurag-026/Leetcode-75/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -712,4 +717,9 @@ These solutions are my own work, developed as part of my learning journey. While
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anurag-026/Leetcode-daily/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
