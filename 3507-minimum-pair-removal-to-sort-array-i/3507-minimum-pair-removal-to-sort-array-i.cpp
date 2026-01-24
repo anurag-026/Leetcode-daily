@@ -9,6 +9,7 @@ public:
                 minSum = nums[i] + nums[i + 1];
             }
         }
+        
         return k;
     }
     int minimumPairRemoval(vector<int>& nums) {
