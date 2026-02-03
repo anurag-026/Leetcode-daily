@@ -140,6 +140,7 @@ These solutions are my own work, developed as part of my learning journey. While
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3637-trionic-array-i](https://github.com/anurag-026/Leetcode-daily/tree/master/3637-trionic-array-i) |
 ## Greedy
 |  |
 | ------- |
