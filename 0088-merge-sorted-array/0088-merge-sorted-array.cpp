@@ -1,19 +1,36 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int midx = m - 1;
-        int nidx = n - 1;
-        int right = m + n - 1;
+        int x = m+n-1, i=m-1, j=n-1;
 
-        while (nidx >= 0) {
-            if (midx >= 0 && nums1[midx] > nums2[nidx]) {
-                nums1[right] = nums1[midx];
-                midx--;
-            } else {
-                nums1[right] = nums2[nidx];
-                nidx--;
+        while(i>=0 && j>=0){
+            if(nums1[i] >nums2[j]){
+                nums1[x]=nums1[i];
+                i--;
+            }else{
+                nums1[x]=nums2[j];
+                j--;
             }
-            right--;
-        }        
+            x--;
+        }
+        while(j>=0){
+            nums1[x--] = nums2[j--];
+        }
+
+    }
+
+    // TC= m * nlogn
+    void merge1(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i = 0, j = 0;
+        while (i < m && j < n) {
+            if (nums1[i] > nums2[j]) {
+                swap(nums1[i], nums2[j]);
+            }
+            i++;
+            sort(nums2.begin(), nums2.end());
+        }
+        while (j < n) {
+            nums1[i++] = nums2[j++];
+        }
     }
 };
