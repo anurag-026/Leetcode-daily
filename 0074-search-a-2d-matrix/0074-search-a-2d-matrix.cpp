@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool searchMatrix1(vector<vector<int>>& matrix, int target) {
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int n = matrix.size(), m = matrix[0].size();
 
         if (n == 0 || m == 0) {
@@ -38,7 +38,7 @@ public:
         return false;
     }
 
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+    bool searchMatrix2(vector<vector<int>>& matrix, int target) {
         int m = matrix.size();
         int n = matrix[0].size();
         int row = 0;
